@@ -1,7 +1,0 @@
-右击选择：git Bash here
-
-git add .
-git commit -m"宿舍管理系统"
-git remote add origin https://github.com/DreaYue/JavaEE.git
-git pull --rebase origin master
-git push -u origin master
